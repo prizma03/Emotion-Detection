@@ -81,7 +81,7 @@ nbformat==5.10.4
 nest-asyncio==1.6.0
 notebook==7.2.0
 notebook_shim==0.2.4
-numpy==1.21.2
+numpy==1.21.4
 opencv-python==4.10.0.84
 opt_einsum==3.4.0
 optree==0.13.1
